@@ -1,2 +1,3 @@
 # hello-world
-First try
+
+Ready to use with KAUST
